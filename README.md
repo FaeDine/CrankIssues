@@ -1,4 +1,4 @@
-# CrankIssues
+# Crank Issues
 Issue tracking for Crank remake in Godot.
 
 Thanks for coming by to submit an issue with Crank! I do my best to make it bug/issue free, but stuff will always slip by.
