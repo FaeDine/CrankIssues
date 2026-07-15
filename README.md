@@ -5,7 +5,7 @@ Thanks for coming by to submit an issue with Crank! I do my best to make it bug/
 
 To submit an issue or bug report, choose "Issues" form the top left of this page.
 
-When submitting an issue, provide as much detail as posseble, such as:
+When submitting an issue, provide as much detail as possible, such as:
 
 - What's not working?
 - What you expect to happen when it is working?
