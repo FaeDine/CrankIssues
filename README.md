@@ -7,8 +7,10 @@ To submit an issue or bug report, choose "Issues" form the top left of this page
 
 When submitting an issue, provide as much detail as possible, such as:
 
-- What's not working?
-- What you expect to happen when it is working?
+- What's not working.
+- What you expect to happen when it is working.
 - What version of the game you're running.
 - Any screenshots showing the issue happening.
 - An export of your save file.
+
+This information helps me duplicate the problem so I can fix it.
